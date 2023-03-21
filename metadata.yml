@@ -1,0 +1,12 @@
+---
+:id: 130587752
+:submitters:
+- :name: AARON J CHAN
+  :email: antzoom1@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-08-20 01:47:39.491987000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-08-19 18:47:39.491987000 Z
+:status: processed
+:score: 97.0
